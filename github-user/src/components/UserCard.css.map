@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAA;EACf,UAAU,EAAE,OAAe;EAC7B,UAAU,EAAE,+CAAqE;EAEhF,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;CAWzB;;AAhBD,AAMI,oBANgB,CAMhB,eAAe,CAAA;EACX,UAAU,EAAE,KAAK;CAQpB;;AAfL,AAWQ,oBAXY,CAMhB,eAAe,CAEX,cAAc,CAGd,GAAG,CAAA;EACD,KAAK,EAAE,GAAG;CACX",
+    "sources": [
+        "UserCard.scss"
+    ],
+    "names": [],
+    "file": "UserCard.css"
+}

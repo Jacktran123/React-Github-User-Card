@@ -1,0 +1,21 @@
+.usercardgrandparent {
+  background: #22c1c3;
+  background: -webkit-gradient(linear, left bottom, left top, from(#22c1c3), to(#2d9afd));
+  background: linear-gradient(0deg, #22c1c3 0%, #2d9afd 100%);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.usercardgrandparent .usercardparent {
+  background: white;
+}
+
+.usercardgrandparent .usercardparent .usercardchild img {
+  width: 50%;
+}
+/*# sourceMappingURL=UserCard.css.map */
